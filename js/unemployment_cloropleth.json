@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "title": "Unemployment statistics",
+    "width": 800,
+    "height": 600,
+    "data": {
+      "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geotopo.json",
+      "format": {
+            "type": "topojson",
+            "feature": "world"
+          }
+    },
+    "transform": [{
+        "lookup": "properties.name",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/Unemployment_data.csv"
+          },
+          "key": "Country Name",
+          "fields": ["2014 [YR2014]"]
+        }
+      },
+      {"calculate": "datum.2014 [YR2014] * 100 + 0.01 ", "as": "Unemployment Rate"}
+    ],
+    "projection": {
+      "type": "equirectangular"
+    },
+    "mark": {
+      "type": "geoshape"
+      },
+    "encoding": {
+      "color": {
+        "field": "Unemployment Rate",
+        "type": "quantitative",
+        "scale": {"type": "log"}
+      },
+      "tooltip": [
+        {"field": "properties.name", "type": "nominal", "title": "Country"},
+        {"field": "Unemployment Rate", "type": "quantitative"}
+      ]
+    }
+  
+  }
+  
