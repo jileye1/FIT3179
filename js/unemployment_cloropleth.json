@@ -19,8 +19,7 @@
           "key": "Country Name",
           "fields": ["2014 [YR2014]"]
         }
-      },
-      {"calculate": "datum.2014 [YR2014] * 100 + 0.01 ", "as": "Unemployment Rate"}
+      }
     ],
     "projection": {
       "type": "equirectangular"
@@ -30,13 +29,13 @@
       },
     "encoding": {
       "color": {
-        "field": "Unemployment Rate",
+        "field": "2014 [YR2014]",
         "type": "quantitative",
         "scale": {"type": "log"}
       },
       "tooltip": [
         {"field": "properties.name", "type": "nominal", "title": "Country"},
-        {"field": "Unemployment Rate", "type": "quantitative"}
+        {"field": "2014 [YR2014]", "type": "quantitative"}
       ]
     }
   
