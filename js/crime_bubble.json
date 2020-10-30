@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "height": 500,
+    "width": 500,
+    "title": "Crime by Population Density",
+    "data": {
+      "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geo.topojson"
+    },
+    "mark": "circle",
+    "encoding": {
+      "x": {
+        "field": "CrimeIndex",
+        "type": "quantitative",
+        "title":"Crime Index"
+      },
+      "y": {
+        "field": "CostOfLivingIndex",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "Country",
+        "type": "nominal"
+      },
+      "size": {
+          "field": "PopDensityKM2",
+          "type": "quantitative"
+      }
+  }
+}
+  
