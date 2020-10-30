@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "height": 500,
+    "height": 400,
     "width": 500,
     "title": "Crime by Population Density",
     "data": {
@@ -15,15 +15,21 @@
       },
       "y": {
         "field": "CostOfLivingIndex",
-        "type": "quantitative"
+        "type": "quantitative",
+        "title": "Cost of Living Index"
       },
       "color": {
-        "field": "Country",
-        "type": "nominal"
+        "field": "Continent",
+        "type": "nominal",
+        "title": "Continent"
       },
       "size": {
           "field": "PopDensityKM2",
-          "type": "quantitative"
+          "type": "quantitative",
+          "scale": {
+              "type": "log"
+          },
+          "title": "Population Density per sqrKm"
       }
   }
 }

@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Global Crime Index",
-  "width": 800,
-  "height": 600,
+  "width": 500,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geo.topojson",
     "format": {
