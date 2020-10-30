@@ -17,9 +17,10 @@
             "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_stats.csv"
           },
           "key": "Country",
-          "fields": ["Crime Index"]
+          "fields": ["CrimeIndex"]
         }
-      }
+      }, 
+      {"calculate": "datum.CrimeIndex", "as": "CrimeIndex"}
     ],
     "projection": {
       "type": "equirectangular"
@@ -29,13 +30,13 @@
       },
     "encoding": {
       "color": {
-        "field": "Crime Index",
+        "field": "CrimeIndex",
         "type": "quantitative",
-        "scale": {"type": "log"}
+        "scale": {"type": "linear"}
       },
       "tooltip": [
         {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-        {"field": "Crime Index", "type": "quantitative"}
+        {"field": "CrimeIndex", "type": "quantitative"}
       ]
     }
   
