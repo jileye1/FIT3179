@@ -4,7 +4,7 @@
     "width": 500,
     "title": "Crime by Population Density",
     "data": {
-      "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geo.topojson"
+      "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_stats_cm.csv"
     },
     "mark": "circle",
     "encoding": {
