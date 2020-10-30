@@ -20,7 +20,7 @@
         "fields": ["CrimeIndex"]
       }
     }, 
-    {"calculate": "datum.CrimeIndex + 0.01", "as": "Crime Index"}
+    {"calculate": "datum.CrimeIndex", "as": "Crime Index"}
   ],
   "projection": {
     "type": "equirectangular"
