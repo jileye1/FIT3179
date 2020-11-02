@@ -6,14 +6,15 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/usa_states.topojson",
+        "name": "states",
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us-10m.json",
         "format": {
           "type": "topojson",
-          "feature": "ne_110m_admin_0_countries"
-        }
+          "feature": "states"
+        },
       },
       "projection": {
-        "type": "equirectangular"
+        "type": "albersUsa"
       },
       "mark": {
         "type": "geoshape",
@@ -22,28 +23,28 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geo.topojson",
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/usa_states.topojson",
         "format": {
           "type": "topojson",
-          "feature": "ne_110m_admin_0_countries"
+          "feature": "us_states.topojson"
         }
       },
       "transform": [
         {
-          "lookup": "properties.NAME",
+          "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_stats_cm.csv"
+              "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_by_agency.csv"
             },
-            "key": "Country",
+            "key": "agency_jurisdiction",
             "fields": [
-              "CrimeIndex"
+              "crimes_percapita"
             ]
           }
         },
         {
-          "calculate": "datum.CrimeIndex",
-          "as": "Crime Index"
+          "calculate": "datum.crimes_percapita",
+          "as": "Crimes Per Capita"
         }
       ],
       "projection": {
@@ -54,7 +55,7 @@
       },
       "encoding": {
         "color": {
-          "field": "Crime Index",
+          "field": "Crimes Per Capita",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -74,12 +75,12 @@
         },
         "tooltip": [
           {
-            "field": "properties.NAME",
+            "field": "properties.name",
             "type": "nominal",
-            "title": "Country"
+            "title": "State"
           },
           {
-            "field": "Crime Index",
+            "field": "Crimes Per Capita",
             "type": "quantitative"
           }
         ]
