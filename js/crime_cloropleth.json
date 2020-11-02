@@ -53,21 +53,7 @@
         "color": {
           "field": "Violent Crime Rate",
           "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [
-              200,
-              600,
-              800,
-              1000
-            ],
-            "range": [
-              "#fdbe85",
-              "#fd8d3c",
-              "#e6550d",
-              "#a63603"
-            ]
-          }
+          "scale": {"scheme": "reds"}
         },
         "tooltip": [
           {
