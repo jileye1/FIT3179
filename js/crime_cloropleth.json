@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Global Crime Index",
+  "title": "US Violent Crime Rate",
   "width": 500,
   "height": 400,
   "layer": [
