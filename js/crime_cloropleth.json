@@ -6,7 +6,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/world.geo.topojson",
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/usa_states.topojson",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
