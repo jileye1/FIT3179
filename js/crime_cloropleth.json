@@ -1,29 +1,28 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "US Violent Crime Rate",
-  "width": 500,
-  "height": 400,
+  "width": 800,
+  "height": 500,
+  "projection": {
+    "type": "albersUsa"
+  },
   "layer": [
     {
       "data": {
-        "name": "states",
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us-10m.json",
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us_states.topojson",
         "format": {
           "type": "topojson",
-          "feature": "states"
-        },
-      },
-      "projection": {
-        "type": "albersUsa"
+          "feature": "us_states.topojson"
+        }
       },
       "mark": {
         "type": "geoshape",
-        "fill": "lightgray"
+        "fill": "lightgray",
+        "stroke": "white"
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/usa_states.topojson",
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us_states.topojson",
         "format": {
           "type": "topojson",
           "feature": "us_states.topojson"
@@ -34,36 +33,33 @@
           "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_by_agency.csv"
+              "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crimes_by_state.csv"
             },
-            "key": "agency_jurisdiction",
+            "key": "State",
             "fields": [
-              "crimes_percapita"
+              "Violent"
             ]
           }
         },
         {
-          "calculate": "datum.crimes_percapita",
-          "as": "Crimes Per Capita"
+          "calculate": "datum.Violent",
+          "as": "Violent Crime Rate"
         }
       ],
-      "projection": {
-        "type": "equirectangular"
-      },
       "mark": {
         "type": "geoshape"
       },
       "encoding": {
         "color": {
-          "field": "Crimes Per Capita",
+          "field": "Violent Crime Rate",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
             "domain": [
-              20,
-              40,
-              60,
-              80
+              200,
+              600,
+              800,
+              1000
             ],
             "range": [
               "#fdbe85",
@@ -80,7 +76,7 @@
             "title": "State"
           },
           {
-            "field": "Crimes Per Capita",
+            "field": "Violent Crime Rate",
             "type": "quantitative"
           }
         ]
