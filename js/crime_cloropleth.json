@@ -67,6 +67,28 @@
           }
         ]
       }
+    },
+    {
+      "data": {"url": "data/us-state-capitals.json"},
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"}
+      },
+      "layer": [
+        {"mark": {"type": "circle", "color": "white"}},
+        {
+          "mark": {
+            "type": "text", 
+            "dy": -10
+            },
+          "encoding": {
+            "text": {
+              "field": "state", 
+              "type": "nominal"
+              }
+              }
+        }
+      ]
     }
   ]
 }
