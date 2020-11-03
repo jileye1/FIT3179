@@ -19,7 +19,10 @@
       },
       "color": {
         "field":"TYPE",
-        "scale": {"scheme": "category20"}
+        "scale": {
+            "domain": ["Homicide", "Burglary", "Assault", "Motor Vehicle Theft", "Robbery", "Rape"],
+            "range": ["#650D1B", "#FFB99A", "#FF6464", "#FFA36C", "#FFCAC2", "#851D41"]
+        }
       },
       "opacity": {
         "condition": {"selection": "Classification", "value": 0.8},
