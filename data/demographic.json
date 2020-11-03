@@ -2,7 +2,6 @@
 		"offense": "All",
 		"vic_off": "Victim",
 		"age": "0-9",
-		"sex": "none",
 		"count": 23132
 	},{
 		"offense": "All",
@@ -61,7 +60,7 @@
 	},{
 		"offense": "All",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 5631
 	},{
@@ -80,7 +79,7 @@
 		"offense": "All",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.00
 	},{
 		"offense": "Homicide",
@@ -145,7 +144,7 @@
 	},{
 		"offense": "Homicide",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 51
 	},{
@@ -164,7 +163,7 @@
 		"offense": "Homicide",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.00
 	},{
 		"offense": "Rape",
@@ -229,7 +228,7 @@
 	},{
 		"offense": "Rape",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 510
 	},{
@@ -248,7 +247,7 @@
 		"offense": "Rape",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.00
 	},{
 		"offense": "Robbery",
@@ -313,7 +312,7 @@
 	},{
 		"offense": "Robbery",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 723
 	},{
@@ -332,7 +331,7 @@
 		"offense": "Robbery",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.00
 	},{
 		"offense": "Assault",
@@ -397,7 +396,7 @@
 	},{
 		"offense": "Assault",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 4347
 	},{
@@ -416,7 +415,7 @@
 		"offense": "Assault",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.01
 	},{
 		"offense": "Property",
@@ -481,7 +480,7 @@
 	},{
 		"offense": "Property",
 		"vic_off": "Victim",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 27520
 	},{
@@ -500,7 +499,7 @@
 		"offense": "Property",
 		"vic_off": "Victim",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.01
 	},{
 		"offense": "All",
@@ -565,7 +564,7 @@
 	},{
 		"offense": "All",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 77348
 	},{
@@ -584,7 +583,7 @@
 		"offense": "All",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.05
 	},{
 		"offense": "Homicide",
@@ -649,7 +648,7 @@
 	},{
 		"offense": "Homicide",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 1023
 	},{
@@ -668,7 +667,7 @@
 		"offense": "Homicide",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.10
 	},{
 		"offense": "Rape",
@@ -733,7 +732,7 @@
 	},{
 		"offense": "Rape",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 7531
 	},{
@@ -752,7 +751,7 @@
 		"offense": "Rape",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.03
 	},{
 		"offense": "Robbery",
@@ -817,7 +816,7 @@
 	},{
 		"offense": "Robbery",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 36292
 	},{
@@ -836,7 +835,7 @@
 		"offense": "Robbery",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.06
 	},{
 		"offense": "Assault",
@@ -901,7 +900,7 @@
 	},{
 		"offense": "Assault",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 32502
 	},{
@@ -920,7 +919,7 @@
 		"offense": "Assault",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.05
 	},{
 		"offense": "Property",
@@ -985,7 +984,7 @@
 	},{
 		"offense": "Property",
 		"vic_off": "Offender",
-		"age": "Unknown",
+		"age": "Unspecified",
 		"sex": "none",
 		"count": 689498
 	},{
@@ -1004,7 +1003,7 @@
 		"offense": "Property",
 		"vic_off": "Offender",
 		"age": "none",
-		"sex": "Unknown",
+		"sex": "Unspecified",
 		"count": 0.27
 	}
 ]

@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "description": "A population pyramid for the US in 2000.",
+    "data": { "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/demographic.json"},
+    "transform": [
+      {"calculate": "datum.sex", "as": "gender"}
+    ],
+    "hconcat": [{
+      "transform": [
+        {
+          "filter": {"field": "age", "equal": "none"}
+        },
+        {
+        "filter": {"field": "vic_off", "equal": "Offender"}
+      },
+      {"filter": {"field": "offense", "equal": "All"}}],
+      "title": "Offender",
+      "mark": "arc",
+    "encoding": {
+      "theta": {"field": "count", "type": "quantitative"},
+      "color": {
+        "field": "sex",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Male", "Female", "Unspecified"],
+          "range": ["#FF9999", "#FFE5CC", "#E0E0E0"]
+        }
+        },
+      "tooltip": [{
+        "type": "quantitative",
+        "field": "count",
+        "title": "Percentage"
+      },
+      {
+        "type": "nominal",
+        "field": "sex",
+        "title": "Gender"
+      }
+      ]
+    },
+    "view": {"stroke": null}
+      }, {
+      "transform": [
+        {
+          "filter": {"field": "age", "equal": "none"}
+        },
+        {
+        "filter": {"field": "vic_off", "equal": "Victim"}
+      },
+      {"filter": {"field": "offense", "equal": "All"}}],
+      "title": "Victim",
+      "mark": "arc",
+    "encoding": {
+      "theta": {"field": "count", "type": "quantitative"},
+      "color": {
+        "field": "sex",
+        "type": "nominal"
+        },
+      "tooltip": [{
+        "type": "quantitative",
+        "field": "count",
+        "title": "Percentage"
+      },
+      {
+        "type": "nominal",
+        "field": "sex",
+        "title": "Gender"
+      }
+      ]
+    },
+    "view": {"stroke": null}
+      }
+    ],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+  }
