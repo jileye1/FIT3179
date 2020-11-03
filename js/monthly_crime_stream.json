@@ -21,7 +21,7 @@
         "field":"TYPE",
         "scale": {
             "domain": ["Homicide", "Burglary", "Assault", "Motor Vehicle Theft", "Robbery", "Rape"],
-            "range": ["#650D1B", "#FFB99A", "#FF6464", "#FFA36C", "#FFCAC2", "#851D41"]
+            "range": ["#EC0101", "#FFB99A", "#FF6464", "#FFA36C", "#FFCAC2", "#851D41"]
         }
       },
       "opacity": {
