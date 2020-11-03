@@ -1,13 +1,12 @@
 {
-  "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
-  "vconcat": [
+  "hconcat": [
     {
       "layer": [
         {
           "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
-          "height": 500,
+          "height": 310,
           "projection": {"type": "albersUsa"},
-          "width": 750
+          "width": 500
         },
         {
           "mark": "geoshape",
@@ -33,7 +32,9 @@
           },
           "height": 500,
           "projection": {"type": "albersUsa"},
-          "selection": {"selector001": {"type": "single", "encodings": ["color"]}},
+          "selection": {
+            "selector001": {"type": "single", "encodings": ["color"]}
+          },
           "transform": [
             {
               "lookup": "properties.name",
@@ -85,7 +86,7 @@
     },
     {
       "hconcat": [
-        {"title": "Crime Rates and Unemployment",
+        {
           "mark": {"type": "circle", "opacity": 1},
           "encoding": {
             "color": {
@@ -119,7 +120,7 @@
             },
             "y": {"type": "quantitative", "field": "Unemployment"}
           },
-          "height": 210,
+          "height": 150,
           "selection": {
             "selector003": {
               "type": "interval",
@@ -127,44 +128,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 300
-        },
-        {"title": "Crime Rates and Income",
-          "mark": {"type": "circle", "opacity": 1},
-          "encoding": {
-            "color": {
-              "condition": {
-                "type": "nominal",
-                "field": "State",
-                "legend": null,
-                "selection": "selector001"
-              },
-              "value": "lightgray"
-            },
-            "size": {
-              "type": "quantitative",
-              "field": "PopDens",
-              "legend": {"title": "Population Density"},
-              "scale": {"range": [0, 1200]}
-            },
-            "tooltip": [
-              {"type": "nominal", "field": "State", "title": "State"},
-              {
-                "type": "quantitative",
-                "field": "MedianIncome",
-                "title": "Median Household Income"
-              }
-            ],
-            "x": {
-              "type": "quantitative",
-              "axis": {"labelAngle": 0},
-              "field": "Violent",
-              "title": "Violent Crime Rate"
-            },
-            "y": {"type": "quantitative", "field": "Median Income"}
-          },
-          "height": 210,
-          "width": 300
+          "width": 350
         }
       ],
       "data": {
