@@ -4,7 +4,7 @@
       "layer": [
         {
           "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
-          "height": 310,
+          "height": 370,
           "projection": {"type": "albersUsa"},
           "width": 450
         },
@@ -30,7 +30,7 @@
               }
             ]
           },
-          "height": 310,
+          "height": 370,
           "projection": {"type": "albersUsa"},
           "selection": {
             "selector001": {"type": "single", "encodings": ["color"]}
@@ -136,7 +136,7 @@
             },
             "y": {"type": "quantitative", "field": "Unemployment"}
           },
-          "height": 110,
+          "height": 150,
           "selection": {
             "selector003": {
               "type": "interval",
@@ -190,7 +190,7 @@
             "title": "Income"
             }
         },
-        "height": 110,
+        "height": 149,
           "selection": {
             "selector003": {
               "type": "interval",
