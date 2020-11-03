@@ -85,7 +85,7 @@
     },
     {
       "hconcat": [
-        {
+        {"title": "Crime Rates and Unemployment",
           "mark": {"type": "circle", "opacity": 1},
           "encoding": {
             "color": {
@@ -129,7 +129,7 @@
           },
           "width": 300
         },
-        {
+        {"title": "Crime Rates and Income",
           "mark": {"type": "circle", "opacity": 1},
           "encoding": {
             "color": {
