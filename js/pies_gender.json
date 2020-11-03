@@ -147,6 +147,9 @@
     }, {
       "transform": [
         {
+            "filter": {"field": "sex", "equal": "none"}
+        },
+        {
           "filter": {"selection": "Details_for"}
         },
         {
