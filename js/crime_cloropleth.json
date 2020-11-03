@@ -87,8 +87,14 @@
     {
       "vconcat": [
         {
-          "mark": {"type": "circle", "opacity": 0.6},
-          "encoding": {
+          "mark": {"type": "circle"},
+        "encoding": {
+          "opacity": {"condition": {
+          "type": "nominal",
+                "test": {"selection": "selector001"}
+              },
+              "value": 0.2
+          },
             "color": {
               "condition": {
                 "type": "nominal",
@@ -141,8 +147,14 @@
           "width": 250
         },
         {
-        "mark": {"type": "circle", "opacity": 0.6},
+        "mark": {"type": "circle"},
         "encoding": {
+          "opacity": {"condition": {
+          "type": "nominal",
+                "test": {"selection": "selector001"}
+              },
+              "value": 0.2
+          },
           "color": {
             "condition": {
               "type": "nominal",
