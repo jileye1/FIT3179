@@ -110,6 +110,16 @@
                 "type": "quantitative",
                 "field": "Unemployment",
                 "title": "Unemployment rate"
+              },
+              {
+                "type": "quantitative",
+                "field": "Violent",
+                "title": "Crime Rate"
+              },
+              {
+                "type": "quantitative",
+                "field": "PopDens",
+                "title": "Population Density"
               }
             ],
             "x": {
