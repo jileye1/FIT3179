@@ -107,7 +107,7 @@
             "size": {
               "type": "quantitative",
               "field": "PopDens",
-              "legend": {"title": "Population Density"},
+              "legend": {"title": "Pop Density"},
               "scale": {"range": [0, 1200]}
             },
             "tooltip": [
@@ -167,7 +167,7 @@
           "size": {
             "type": "quantitative",
             "field": "PopDens",
-            "legend": {"title": "Population Density"},
+            "legend": {"title": "Pop Density"},
             "scale": {"range": [0, 1200]}
           },
           "tooltip": [
