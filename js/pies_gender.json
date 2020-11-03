@@ -26,6 +26,7 @@
     },
     {
       "hconcat": [{
+        "width": 225,
       "transform": [
         {
           "filter": {"field": "age", "equal": "none"}
