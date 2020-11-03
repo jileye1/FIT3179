@@ -1,0 +1,18 @@
+[
+    {"type":"a","person": "victim", "age":0,"sex":1,"count":1483789},
+    {"type":"a","person": "victim", "age":0,"sex":2,"count":56},
+    {"type":"a","person": "victim", "age":5,"sex":1,"count":2348},
+    {"type":"a","person": "victim", "age":5,"sex":2,"count":2348},
+    {"type":"a","person": "offender", "age":0,"sex":1,"count":1234},
+    {"type":"a","person": "offender", "age":0,"sex":2,"count":234565},
+    {"type":"a","person": "offender", "age":5,"sex":1,"count":1434344},
+    {"type":"a","person": "offender", "age":5,"sex":2,"count":14344},
+    {"type":"b","person": "victim", "age":0,"sex":1,"count":7364},
+    {"type":"b","person": "victim", "age":0,"sex":2,"count":239484},
+    {"type":"b","person": "victim", "age":5,"sex":1,"count":783465},
+    {"type":"b","person": "victim", "age":5,"sex":2,"count":239484},
+    {"type":"b","person": "offender", "age":0,"sex":1,"count":148389},
+    {"type":"b","person": "offender", "age":0,"sex":2,"count":4483789},
+    {"type":"b","person": "offender", "age":5,"sex":1,"count":4483789},
+    {"type":"b","person": "offender", "age":5,"sex":2,"count":2483789}
+]

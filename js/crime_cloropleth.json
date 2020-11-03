@@ -1,4 +1,4 @@
-{
+{"spacing": 0,
   "hconcat": [
     {
       "layer": [
@@ -15,7 +15,7 @@
               "condition": {
                 "type": "quantitative",
                 "field": "Violent",
-                "legend": {"title": "Crimes/100k People"},
+                "legend": {"title": "Crimes/100k"},
                 "scale": {"scheme": "reds"},
                 "selection": "selector001"
               },
