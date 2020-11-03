@@ -1,0 +1,1010 @@
+[{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 23132
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 87873
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 144423
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 109492
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 68914
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 46546
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 20818
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 6040
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 1683
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 494
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 5631
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.51
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.49
+	},{
+		"offense": "All",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.00
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 255
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 706
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 1966
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 1419
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 941
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 623
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 378
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 180
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 60
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 12
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 51
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.76
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.23
+	},{
+		"offense": "Homicide",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.00
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 7896
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 25964
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 13982
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 8095
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 4299
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 2121
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 689
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 252
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 162
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 78
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 510
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.10
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.90
+	},{
+		"offense": "Rape",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.00
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 623
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 15960
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 32941
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 22382
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 14712
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 11650
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 5883
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 1788
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 493
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 82
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 723
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.65
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.35
+	},{
+		"offense": "Robbery",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.00
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 14358
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 45243
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 95534
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 77596
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 48962
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 32152
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 13868
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 3820
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 968
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 322
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 4347
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.53
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.46
+	},{
+		"offense": "Assault",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.01
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "0-9",
+		"sex": "none",
+		"count": 6387
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "10-19",
+		"sex": "none",
+		"count": 106395
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "20-29",
+		"sex": "none",
+		"count": 513167
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "30-39",
+		"sex": "none",
+		"count": 511320
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "40-49",
+		"sex": "none",
+		"count": 401815
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "50-59",
+		"sex": "none",
+		"count": 356096
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "60-69",
+		"sex": "none",
+		"count": 248366
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "70-79",
+		"sex": "none",
+		"count": 118090
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "80-89",
+		"sex": "none",
+		"count": 37334
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "<90",
+		"sex": "none",
+		"count": 7506
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 27520
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.54
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.46
+	},{
+		"offense": "Property",
+		"vic_off": "Victim",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.01
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 1526
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 84590
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 146387
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 102746
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 51140
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 33402
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 10498
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 2384
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 601
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 525
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 77348
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.78
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.17
+	},{
+		"offense": "All",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.05
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 5
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 1234
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 2638
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 1412
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 711
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 429
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 176
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 56
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 22
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 4
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 1023
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.78
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.11
+	},{
+		"offense": "Homicide",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.10
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 651
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 14580
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 14733
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 11933
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 6830
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 4802
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 1708
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 426
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 110
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 187
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 7531
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.93
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.04
+	},{
+		"offense": "Rape",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.03
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 186
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 31464
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 40384
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 18387
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 6290
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 4712
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 567
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 61
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 39
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 131
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 36292
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.83
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.12
+	},{
+		"offense": "Robbery",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.06
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 684
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 37312
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 88632
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 71014
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 37309
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 23459
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 8047
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 1841
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 430
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 203
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 32502
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.73
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.23
+	},{
+		"offense": "Assault",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.05
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "0-9",
+		"sex": "none",
+		"count": 5093
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "10-19",
+		"sex": "none",
+		"count": 234313
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "20-29",
+		"sex": "none",
+		"count": 405699
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "30-39",
+		"sex": "none",
+		"count": 369339
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "40-49",
+		"sex": "none",
+		"count": 184593
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "50-59",
+		"sex": "none",
+		"count": 134763
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "60-69",
+		"sex": "none",
+		"count": 28933
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "70-79",
+		"sex": "none",
+		"count": 4818
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "80-89",
+		"sex": "none",
+		"count": 1444
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "<90",
+		"sex": "none",
+		"count": 1686
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "Unknown",
+		"sex": "none",
+		"count": 689498
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Male",
+		"count": 0.49
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Female",
+		"count": 0.24
+	},{
+		"offense": "Property",
+		"vic_off": "Offender",
+		"age": "none",
+		"sex": "Unknown",
+		"count": 0.27
+	}
+]

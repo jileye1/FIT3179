@@ -1,0 +1,266 @@
+[{
+		"Year": 2009,
+		"Rate": 431.9,
+		"type": "All "
+	},{
+		"Year": 2010,
+		"Rate": 404.5,
+		"type": "All "
+	},{
+		"Year": 2011,
+		"Rate": 387.1,
+		"type": "All "
+	},{
+		"Year": 2012,
+		"Rate": 387.8,
+		"type": "All "
+	},{
+		"Year": 2013,
+		"Rate": 369.1,
+		"type": "All "
+	},{
+		"Year": 2014,
+		"Rate": 361.6,
+		"type": "All "
+	},{
+		"Year": 2015,
+		"Rate": 373.7,
+		"type": "All "
+	},{
+		"Year": 2016,
+		"Rate": 397.5,
+		"type": "All "
+	},{
+		"Year": 2017,
+		"Rate": 394.9,
+		"type": "All "
+	},{
+		"Year": 2018,
+		"Rate": 383.4,
+		"type": "All "
+	},{
+		"Year": 2019,
+		"Rate": 379.4,
+		"type": "All "
+	},{
+		"Year": 2009,
+		"Rate": 5,
+		"type": "Homicide"
+	},{
+		"Year": 2010,
+		"Rate": 4.8,
+		"type": "Homicide"
+	},{
+		"Year": 2011,
+		"Rate": 4.7,
+		"type": "Homicide"
+	},{
+		"Year": 2012,
+		"Rate": 4.7,
+		"type": "Homicide"
+	},{
+		"Year": 2013,
+		"Rate": 4.5,
+		"type": "Homicide"
+	},{
+		"Year": 2014,
+		"Rate": 4.4,
+		"type": "Homicide"
+	},{
+		"Year": 2015,
+		"Rate": 4.9,
+		"type": "Homicide"
+	},{
+		"Year": 2016,
+		"Rate": 5.4,
+		"type": "Homicide"
+	},{
+		"Year": 2017,
+		"Rate": 5.3,
+		"type": "Homicide"
+	},{
+		"Year": 2018,
+		"Rate": 5,
+		"type": "Homicide"
+	},{
+		"Year": 2019,
+		"Rate": 5,
+		"type": "Homicide"
+	},{
+		"Year": 2009,
+		"Rate": 29.1,
+		"type": "Rape"
+	},{
+		"Year": 2010,
+		"Rate": 27.7,
+		"type": "Rape"
+	},{
+		"Year": 2011,
+		"Rate": 27,
+		"type": "Rape"
+	},{
+		"Year": 2012,
+		"Rate": 27.1,
+		"type": "Rape"
+	},{
+		"Year": 2013,
+		"Rate": 35.9,
+		"type": "Rape"
+	},{
+		"Year": 2014,
+		"Rate": 37,
+		"type": "Rape"
+	},{
+		"Year": 2015,
+		"Rate": 28.4,
+		"type": "Rape"
+	},{
+		"Year": 2016,
+		"Rate": 40.9,
+		"type": "Rape"
+	},{
+		"Year": 2017,
+		"Rate": 41.7,
+		"type": "Rape"
+	},{
+		"Year": 2018,
+		"Rate": 44,
+		"type": "Rape"
+	},{
+		"Year": 2019,
+		"Rate": 42.6,
+		"type": "Rape"
+	},{
+		"Year": 2009,
+		"Rate": 133.1,
+		"type": "Robbery"
+	},{
+		"Year": 2010,
+		"Rate": 119.3,
+		"type": "Robbery"
+	},{
+		"Year": 2011,
+		"Rate": 113.9,
+		"type": "Robbery"
+	},{
+		"Year": 2012,
+		"Rate": 113.1,
+		"type": "Robbery"
+	},{
+		"Year": 2013,
+		"Rate": 109,
+		"type": "Robbery"
+	},{
+		"Year": 2014,
+		"Rate": 101.3,
+		"type": "Robbery"
+	},{
+		"Year": 2015,
+		"Rate": 102.2,
+		"type": "Robbery"
+	},{
+		"Year": 2016,
+		"Rate": 102.9,
+		"type": "Robbery"
+	},{
+		"Year": 2017,
+		"Rate": 98.6,
+		"type": "Robbery"
+	},{
+		"Year": 2018,
+		"Rate": 86.1,
+		"type": "Robbery"
+	},{
+		"Year": 2019,
+		"Rate": 81.6,
+		"type": "Robbery"
+	},{
+		"Year": 2009,
+		"Rate": 264.7,
+		"type": "Assault"
+	},{
+		"Year": 2010,
+		"Rate": 252.8,
+		"type": "Assault"
+	},{
+		"Year": 2011,
+		"Rate": 241.5,
+		"type": "Assault"
+	},{
+		"Year": 2012,
+		"Rate": 242.8,
+		"type": "Assault"
+	},{
+		"Year": 2013,
+		"Rate": 229.6,
+		"type": "Assault"
+	},{
+		"Year": 2014,
+		"Rate": 229.2,
+		"type": "Assault"
+	},{
+		"Year": 2015,
+		"Rate": 238.1,
+		"type": "Assault"
+	},{
+		"Year": 2016,
+		"Rate": 248.3,
+		"type": "Assault"
+	},{
+		"Year": 2017,
+		"Rate": 249.2,
+		"type": "Assault"
+	},{
+		"Year": 2018,
+		"Rate": 248.2,
+		"type": "Assault"
+	},{
+		"Year": 2019,
+		"Rate": 250.2,
+		"type": "Assault"
+	},{
+		"Year": 2009,
+		"Rate": 3041.3,
+		"type": "Property"
+	},{
+		"Year": 2010,
+		"Rate": 2945.9,
+		"type": "Property"
+	},{
+		"Year": 2011,
+		"Rate": 2905.4,
+		"type": "Property"
+	},{
+		"Year": 2012,
+		"Rate": 2868,
+		"type": "Property"
+	},{
+		"Year": 2013,
+		"Rate": 2733.6,
+		"type": "Property"
+	},{
+		"Year": 2014,
+		"Rate": 2574.1,
+		"type": "Property"
+	},{
+		"Year": 2015,
+		"Rate": 2500.5,
+		"type": "Property"
+	},{
+		"Year": 2016,
+		"Rate": 2451.6,
+		"type": "Property"
+	},{
+		"Year": 2017,
+		"Rate": 2362.9,
+		"type": "Property"
+	},{
+		"Year": 2018,
+		"Rate": 2209.8,
+		"type": "Property"
+	},{
+		"Year": 2019,
+		"Rate": 2109.9,
+		"type": "Property"
+	}
+]
