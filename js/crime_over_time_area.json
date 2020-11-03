@@ -1,0 +1,19 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 300, "height": 200,
+    "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_time.json"},
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "yearmonth", "field": "DATE",
+        "axis": {"format": "%Y"}
+      },
+      "y": {
+        "aggregate": "sum", "field": "COUNT"
+      },
+      "color": {
+        "field": "series",
+        "scale": {"scheme": "category20b"}
+      }
+    }
+  }
