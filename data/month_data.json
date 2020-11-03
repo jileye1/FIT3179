@@ -1,0 +1,434 @@
+[{
+		"TYPE": "Homicide",
+		"COUNT": 8,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 15,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 71,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 93,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 167,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 60,
+		"MONTH": "January",
+		"YEAR": 2017,
+		"DATE": "01/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 4,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 14,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 61,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 102,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 142,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 33,
+		"MONTH": "February",
+		"YEAR": 2017,
+		"DATE": "02/28/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 4,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 9,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 56,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 85,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 145,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 50,
+		"MONTH": "March",
+		"YEAR": 2017,
+		"DATE": "03/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 3,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 8,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 77,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 122,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 178,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 69,
+		"MONTH": "April",
+		"YEAR": 2017,
+		"DATE": "04/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 4,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 10,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 68,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 132,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 171,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 67,
+		"MONTH": "May",
+		"YEAR": 2017,
+		"DATE": "05/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 2,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 10,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 78,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 143,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 183,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 70,
+		"MONTH": "June",
+		"YEAR": 2017,
+		"DATE": "06/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 4,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 13,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 67,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 146,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 251,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 85,
+		"MONTH": "July",
+		"YEAR": 2017,
+		"DATE": "07/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 3,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 11,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 90,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 172,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 266,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 87,
+		"MONTH": "August",
+		"YEAR": 2017,
+		"DATE": "08/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 1,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 9,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 59,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 138,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 174,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 56,
+		"MONTH": "September",
+		"YEAR": 2017,
+		"DATE": "09/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 3,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 9,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 74,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 126,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 237,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 76,
+		"MONTH": "October",
+		"YEAR": 2017,
+		"DATE": "10/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 3,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 9,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 72,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 119,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 235,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 73,
+		"MONTH": "November",
+		"YEAR": 2017,
+		"DATE": "11/30/2017 12:00:00 AM"
+	},{
+		"TYPE": "Homicide",
+		"COUNT": 3,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Rape",
+		"COUNT": 5,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Robbery",
+		"COUNT": 69,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Assault",
+		"COUNT": 111,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Burglary",
+		"COUNT": 180,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	},{
+		"TYPE": "Motor Vehicle Theft",
+		"COUNT": 77,
+		"MONTH": "December",
+		"YEAR": 2017,
+		"DATE": "12/31/2017 12:00:00 AM"
+	}
+]
