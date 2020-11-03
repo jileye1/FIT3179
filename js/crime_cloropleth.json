@@ -5,9 +5,9 @@
       "layer": [
         {
           "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
-          "height": 300,
+          "height": 500,
           "projection": {"type": "albersUsa"},
-          "width": 500
+          "width": 750
         },
         {
           "mark": "geoshape",
@@ -31,7 +31,7 @@
               }
             ]
           },
-          "height": 300,
+          "height": 500,
           "projection": {"type": "albersUsa"},
           "selection": {"selector001": {"type": "single", "encodings": ["color"]}},
           "transform": [
@@ -46,7 +46,7 @@
               }
             }
           ],
-          "width": 500
+          "width": 750
         },
         {
           "mark": "circle",
@@ -137,9 +137,9 @@
           }
           }
       },
-      "height": 300,
+      "height": 200,
 
-      "width": 450
+      "width": 300
     }
   ],
   "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"
