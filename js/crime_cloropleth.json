@@ -1,94 +1,141 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 800,
-  "height": 500,
-  "projection": {
-    "type": "albersUsa"
-  },
-  "layer": [
+  "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
+  "hconcat": [
     {
-      "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us_states.topojson",
-        "format": {
-          "type": "topojson",
-          "feature": "us_states.topojson"
-        }
-      },
-      "mark": {
-        "type": "geoshape",
-        "fill": "lightgray",
-        "stroke": "white"
-      }
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us_states.topojson",
-        "format": {
-          "type": "topojson",
-          "feature": "us_states.topojson"
-        }
-      },
-      "transform": [
+      "layer": [
         {
-          "lookup": "properties.name",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crimes_by_state.csv"
+          "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+          "height": 300,
+          "projection": {"type": "albersUsa"},
+          "width": 500
+        },
+        {
+          "mark": "geoshape",
+          "encoding": {
+            "color": {
+              "condition": {
+                "type": "quantitative",
+                "field": "Violent",
+                "legend": {"title": "Crimes/100k People"},
+                "scale": {"scheme": "reds"},
+                "selection": "selector001"
+              },
+              "value": "lightgrey"
             },
-            "key": "State",
-            "fields": [
-              "Violent"
+            "tooltip": [
+              {"type": "nominal", "field": "properties.name", "title": "State"},
+              {
+                "type": "quantitative",
+                "field": "Violent",
+                "title": "Violent Crime rate/100k"
+              }
             ]
+          },
+          "height": 300,
+          "projection": {"type": "albersUsa"},
+          "selection": {"selector001": {"type": "single", "encodings": ["color"]}},
+          "transform": [
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
+                },
+                "key": "State",
+                "fields": ["Violent"]
+              }
+            }
+          ],
+          "width": 500
+        },
+        {
+          "mark": "circle",
+          "encoding": {
+            "color": {"value": "white"},
+            "latitude": {
+              "field": "properties.latitude",
+              "type": "quantitative"
+            },
+            "longitude": {
+              "field": "properties.longitude",
+              "type": "quantitative"
+            }
           }
         },
         {
-          "calculate": "datum.Violent",
-          "as": "Violent Crime Rate"
+          "mark": {"type": "text", "dy": -10},
+          "encoding": {
+            "color": {"value": "black"},
+            "latitude": {
+              "field": "properties.latitude",
+              "type": "quantitative"
+            },
+            "longitude": {
+              "field": "properties.longitude",
+              "type": "quantitative"
+            },
+            "text": {"type": "nominal", "field": "properties.postal"}
+          }
         }
       ],
-      "mark": {
-        "type": "geoshape"
-      },
-      "encoding": {
-        "color": {
-          "field": "Violent Crime Rate",
-          "type": "quantitative",
-          "scale": {"scheme": "reds"}
-        },
-        "tooltip": [
-          {
-            "field": "properties.name",
-            "type": "nominal",
-            "title": "State"
-          },
-          {
-            "field": "Violent Crime Rate",
-            "type": "quantitative"
-          }
-        ]
+      "data": {
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/js/us_states.topojson",
+        "format": {"feature": "us_states.topojson", "type": "topojson"}
       }
     },
     {
-      "data": {"url": "data/us-state-capitals.json"},
-      "encoding": {
-        "longitude": {"field": "lon", "type": "quantitative"},
-        "latitude": {"field": "lat", "type": "quantitative"}
+      "data": {
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
       },
-      "layer": [
-        {"mark": {"type": "circle", "color": "white"}},
-        {
-          "mark": {
-            "type": "text", 
-            "dy": -10
-            },
-          "encoding": {
-            "text": {
-              "field": "state", 
-              "type": "nominal"
-              }
-              }
-        }
-      ]
+      "mark": {"type": "circle", "opacity": 0.8},
+      "encoding": {
+        "color": {
+          "condition": {
+            "type": "nominal",
+            "field": "State",
+            "legend": null,
+            "selection": "selector001"
+          },
+          "value": "lightgray"
+        },
+        "size": {
+          "type": "quantitative",
+          "field": "PopDens",
+          "legend": {"title": "Population Density"},
+          "scale": {"range": [0, 1200]}
+        },
+        "tooltip": [
+          {"type": "nominal", "field": "State", "title": "State"},
+          {
+            "type": "quantitative",
+            "field": "Unemployment",
+            "title": "Unemployment rate"
+          },
+          {
+            "type": "quantitative",
+            "field": "Violent",
+            "title": "Crime Rate"
+          }
+        ],
+        "x": {
+          "type": "quantitative",
+          "axis": {"labelAngle": 0},
+          "field": "Violent",
+          "title": "Violent Crime Rate"
+        },
+        "y": {
+          "type": "quantitative", 
+          "field": "Unemployment",
+          "title": "Unemployment Rate",
+          "axis":{
+            "labelAngle": 0
+          }
+          }
+      },
+      "height": 300,
+
+      "width": 450
     }
-  ]
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"
 }
