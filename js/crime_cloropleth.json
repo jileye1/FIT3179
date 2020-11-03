@@ -87,7 +87,7 @@
     {
       "vconcat": [
         {
-          "mark": {"type": "circle", "opacity": 1},
+          "mark": {"type": "circle", "opacity": 0.6},
           "encoding": {
             "color": {
               "condition": {
@@ -138,10 +138,10 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 200
+          "width": 250
         },
         {
-        "mark": {"type": "circle", "opacity": 1},
+        "mark": {"type": "circle", "opacity": 0.6},
         "encoding": {
           "color": {
             "condition": {
@@ -186,7 +186,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 199
+          "width": 249
       }
       ],
       "data": {
