@@ -15,7 +15,7 @@
               "condition": {
                 "type": "quantitative",
                 "field": "Violent",
-                "legend": {"title": "Crimes/100k"},
+                "legend": {"title": "Crimes/100k", "labelFontSize": 5},
                 "scale": {"scheme": "reds"},
                 "selection": "selector001"
               },
@@ -107,7 +107,7 @@
             "size": {
               "type": "quantitative",
               "field": "PopDens",
-              "legend": {"title": "Pop Density"},
+              "legend": {"title": "Pop Density", "labelFontSize": 5},
               "scale": {"range": [0, 1200]}
             },
             "tooltip": [
@@ -167,7 +167,7 @@
           "size": {
             "type": "quantitative",
             "field": "PopDens",
-            "legend": {"title": "Pop Density"},
+            "legend": {"title": "Pop Density", "labelFontSize": 5},
             "scale": {"range": [0, 1200]}
           },
           "tooltip": [
