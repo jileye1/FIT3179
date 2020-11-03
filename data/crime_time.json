@@ -1,0 +1,5126 @@
+[{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 23,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 135,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 136,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 313,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 744,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 200,
+    "MONTH": "January",
+    "YEAR": 2008,
+    "DATE": "01/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 95,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 90,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 232,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 583,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 121,
+    "MONTH": "February",
+    "YEAR": 2008,
+    "DATE": "02/29/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 118,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 123,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 265,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 763,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 155,
+    "MONTH": "March",
+    "YEAR": 2008,
+    "DATE": "03/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 117,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 150,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 330,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 813,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 160,
+    "MONTH": "April",
+    "YEAR": 2008,
+    "DATE": "04/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 138,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 181,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 393,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 880,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 163,
+    "MONTH": "May",
+    "YEAR": 2008,
+    "DATE": "05/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 22,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 131,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 189,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 396,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 884,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 176,
+    "MONTH": "June",
+    "YEAR": 2008,
+    "DATE": "06/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 125,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 218,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 364,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 1056,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 186,
+    "MONTH": "July",
+    "YEAR": 2008,
+    "DATE": "07/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 160,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 203,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 432,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 950,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 201,
+    "MONTH": "August",
+    "YEAR": 2008,
+    "DATE": "08/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 156,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 443,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 757,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 143,
+    "MONTH": "September",
+    "YEAR": 2008,
+    "DATE": "09/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 0,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 163,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 169,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 336,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 808,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 115,
+    "MONTH": "October",
+    "YEAR": 2008,
+    "DATE": "10/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 17,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 111,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 170,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 335,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 677,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 106,
+    "MONTH": "November",
+    "YEAR": 2008,
+    "DATE": "11/30/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 3,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 126,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 118,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 282,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 601,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 129,
+    "MONTH": "December",
+    "YEAR": 2008,
+    "DATE": "12/31/2008 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 115,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 138,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 301,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 586,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 138,
+    "MONTH": "January",
+    "YEAR": 2009,
+    "DATE": "01/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 96,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 113,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 230,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 551,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 96,
+    "MONTH": "February",
+    "YEAR": 2009,
+    "DATE": "02/28/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 107,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 150,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 251,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 634,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 147,
+    "MONTH": "March",
+    "YEAR": 2009,
+    "DATE": "03/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 144,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 176,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 324,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 705,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 130,
+    "MONTH": "April",
+    "YEAR": 2009,
+    "DATE": "04/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 21,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 139,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 211,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 383,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 847,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 126,
+    "MONTH": "May",
+    "YEAR": 2009,
+    "DATE": "05/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 128,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 190,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 342,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 743,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 125,
+    "MONTH": "June",
+    "YEAR": 2009,
+    "DATE": "06/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 8,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 132,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 208,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 334,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 855,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 142,
+    "MONTH": "July",
+    "YEAR": 2009,
+    "DATE": "07/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 11,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 155,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 196,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 359,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 924,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 154,
+    "MONTH": "August",
+    "YEAR": 2009,
+    "DATE": "08/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 147,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 177,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 379,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 858,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 147,
+    "MONTH": "September",
+    "YEAR": 2009,
+    "DATE": "09/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 150,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 155,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 389,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 861,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 131,
+    "MONTH": "October",
+    "YEAR": 2009,
+    "DATE": "10/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 176,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 148,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 356,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 788,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 119,
+    "MONTH": "November",
+    "YEAR": 2009,
+    "DATE": "11/30/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 153,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 141,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 332,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 627,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 132,
+    "MONTH": "December",
+    "YEAR": 2009,
+    "DATE": "12/31/2009 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 136,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 129,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 300,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 607,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 130,
+    "MONTH": "January",
+    "YEAR": 2010,
+    "DATE": "01/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 6,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 81,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 102,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 235,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 519,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 107,
+    "MONTH": "February",
+    "YEAR": 2010,
+    "DATE": "02/28/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 0,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 91,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 164,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 256,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 655,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 120,
+    "MONTH": "March",
+    "YEAR": 2010,
+    "DATE": "03/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 8,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 139,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 158,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 313,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 724,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 105,
+    "MONTH": "April",
+    "YEAR": 2010,
+    "DATE": "04/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 19,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 125,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 190,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 379,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 787,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 100,
+    "MONTH": "May",
+    "YEAR": 2010,
+    "DATE": "05/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 123,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 185,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 365,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 1007,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 130,
+    "MONTH": "June",
+    "YEAR": 2010,
+    "DATE": "06/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 22,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 132,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 215,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 429,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 950,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 125,
+    "MONTH": "July",
+    "YEAR": 2010,
+    "DATE": "07/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 10,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 20,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 119,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 177,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 507,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 875,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 134,
+    "MONTH": "August",
+    "YEAR": 2010,
+    "DATE": "08/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 131,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 495,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 784,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 130,
+    "MONTH": "September",
+    "YEAR": 2010,
+    "DATE": "09/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 151,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 162,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 365,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 829,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 131,
+    "MONTH": "October",
+    "YEAR": 2010,
+    "DATE": "10/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 5,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 129,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 124,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 343,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 667,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 117,
+    "MONTH": "November",
+    "YEAR": 2010,
+    "DATE": "11/30/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 5,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 115,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 111,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 293,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 620,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 116,
+    "MONTH": "December",
+    "YEAR": 2010,
+    "DATE": "12/31/2010 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 111,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 121,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 308,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 564,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 99,
+    "MONTH": "January",
+    "YEAR": 2011,
+    "DATE": "01/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 72,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 76,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 175,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 459,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 92,
+    "MONTH": "February",
+    "YEAR": 2011,
+    "DATE": "02/28/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 95,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 106,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 296,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 596,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 88,
+    "MONTH": "March",
+    "YEAR": 2011,
+    "DATE": "03/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 129,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 138,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 307,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 730,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 94,
+    "MONTH": "April",
+    "YEAR": 2011,
+    "DATE": "04/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 110,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 150,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 375,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 771,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 94,
+    "MONTH": "May",
+    "YEAR": 2011,
+    "DATE": "05/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 105,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 179,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 369,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 787,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 98,
+    "MONTH": "June",
+    "YEAR": 2011,
+    "DATE": "06/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 139,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 173,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 485,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 854,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 105,
+    "MONTH": "July",
+    "YEAR": 2011,
+    "DATE": "07/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 148,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 132,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 518,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 864,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 114,
+    "MONTH": "August",
+    "YEAR": 2011,
+    "DATE": "08/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 5,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 155,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 144,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 480,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 817,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 110,
+    "MONTH": "September",
+    "YEAR": 2011,
+    "DATE": "09/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 123,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 120,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 442,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 807,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 79,
+    "MONTH": "October",
+    "YEAR": 2011,
+    "DATE": "10/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 139,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 131,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 422,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 791,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 102,
+    "MONTH": "November",
+    "YEAR": 2011,
+    "DATE": "11/30/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 5,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 146,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 125,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 361,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 761,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 89,
+    "MONTH": "December",
+    "YEAR": 2011,
+    "DATE": "12/31/2011 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 122,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 136,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 309,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 680,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 95,
+    "MONTH": "January",
+    "YEAR": 2012,
+    "DATE": "01/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 75,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 107,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 234,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 547,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 72,
+    "MONTH": "February",
+    "YEAR": 2012,
+    "DATE": "02/29/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 115,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 152,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 265,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 692,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 90,
+    "MONTH": "March",
+    "YEAR": 2012,
+    "DATE": "03/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 127,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 118,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 304,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 745,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 78,
+    "MONTH": "April",
+    "YEAR": 2012,
+    "DATE": "04/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 8,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 126,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 168,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 317,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 752,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 106,
+    "MONTH": "May",
+    "YEAR": 2012,
+    "DATE": "05/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 100,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 152,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 322,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 646,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 94,
+    "MONTH": "June",
+    "YEAR": 2012,
+    "DATE": "06/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 86,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 178,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 404,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 832,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 113,
+    "MONTH": "July",
+    "YEAR": 2012,
+    "DATE": "07/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 17,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 160,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 202,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 402,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 832,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 116,
+    "MONTH": "August",
+    "YEAR": 2012,
+    "DATE": "08/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 157,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 393,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 720,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "September",
+    "YEAR": 2012,
+    "DATE": "09/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 108,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 144,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 394,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 713,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 109,
+    "MONTH": "October",
+    "YEAR": 2012,
+    "DATE": "10/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 117,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 128,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 312,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 655,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 96,
+    "MONTH": "November",
+    "YEAR": 2012,
+    "DATE": "11/30/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 6,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 106,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 310,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 671,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 90,
+    "MONTH": "December",
+    "YEAR": 2012,
+    "DATE": "12/31/2012 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 100,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 124,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 241,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 608,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 98,
+    "MONTH": "January",
+    "YEAR": 2013,
+    "DATE": "01/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 80,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 95,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 212,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 505,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 55,
+    "MONTH": "February",
+    "YEAR": 2013,
+    "DATE": "02/28/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 99,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 126,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 278,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 621,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 68,
+    "MONTH": "March",
+    "YEAR": 2013,
+    "DATE": "03/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 116,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 144,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 277,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 630,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 75,
+    "MONTH": "April",
+    "YEAR": 2013,
+    "DATE": "04/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 17,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 89,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 171,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 278,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 711,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 78,
+    "MONTH": "May",
+    "YEAR": 2013,
+    "DATE": "05/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 171,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 330,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 695,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 99,
+    "MONTH": "June",
+    "YEAR": 2013,
+    "DATE": "06/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 115,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 182,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 342,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 835,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 109,
+    "MONTH": "July",
+    "YEAR": 2013,
+    "DATE": "07/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 18,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 139,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 183,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 304,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 790,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "August",
+    "YEAR": 2013,
+    "DATE": "08/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 121,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 149,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 317,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 761,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 73,
+    "MONTH": "September",
+    "YEAR": 2013,
+    "DATE": "09/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 132,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 121,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 336,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 688,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 73,
+    "MONTH": "October",
+    "YEAR": 2013,
+    "DATE": "10/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 96,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 117,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 263,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 595,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 80,
+    "MONTH": "November",
+    "YEAR": 2013,
+    "DATE": "11/30/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 111,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 106,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 282,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 621,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 86,
+    "MONTH": "December",
+    "YEAR": 2013,
+    "DATE": "12/31/2013 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 112,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 100,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 218,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 656,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 91,
+    "MONTH": "January",
+    "YEAR": 2014,
+    "DATE": "01/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 6,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 57,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 103,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 164,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 516,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 77,
+    "MONTH": "February",
+    "YEAR": 2014,
+    "DATE": "02/28/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 65,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 105,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 211,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 579,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 71,
+    "MONTH": "March",
+    "YEAR": 2014,
+    "DATE": "03/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 119,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 137,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 234,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 660,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 93,
+    "MONTH": "April",
+    "YEAR": 2014,
+    "DATE": "04/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 130,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 173,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 302,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 784,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 90,
+    "MONTH": "May",
+    "YEAR": 2014,
+    "DATE": "05/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 5,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 127,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 159,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 309,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 761,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 80,
+    "MONTH": "June",
+    "YEAR": 2014,
+    "DATE": "06/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 22,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 135,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 181,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 265,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 760,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 62,
+    "MONTH": "July",
+    "YEAR": 2014,
+    "DATE": "07/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 18,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 126,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 153,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 284,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 911,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 79,
+    "MONTH": "August",
+    "YEAR": 2014,
+    "DATE": "08/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 92,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 134,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 285,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 770,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 88,
+    "MONTH": "September",
+    "YEAR": 2014,
+    "DATE": "09/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 8,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 115,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 118,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 289,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 737,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "October",
+    "YEAR": 2014,
+    "DATE": "10/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 97,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 119,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 258,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 557,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 64,
+    "MONTH": "November",
+    "YEAR": 2014,
+    "DATE": "11/30/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 12,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 104,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 122,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 301,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 676,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 98,
+    "MONTH": "December",
+    "YEAR": 2014,
+    "DATE": "12/31/2014 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 93,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 108,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 178,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 611,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 94,
+    "MONTH": "January",
+    "YEAR": 2015,
+    "DATE": "01/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 54,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 75,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 133,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 372,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 60,
+    "MONTH": "February",
+    "YEAR": 2015,
+    "DATE": "02/28/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 78,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 114,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 135,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 481,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 69,
+    "MONTH": "March",
+    "YEAR": 2015,
+    "DATE": "03/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 79,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 143,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 162,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 580,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 80,
+    "MONTH": "April",
+    "YEAR": 2015,
+    "DATE": "04/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 25,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 82,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 133,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 191,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 661,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 97,
+    "MONTH": "May",
+    "YEAR": 2015,
+    "DATE": "05/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 21,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 73,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 153,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 237,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 700,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "June",
+    "YEAR": 2015,
+    "DATE": "06/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 80,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 175,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 272,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 838,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 102,
+    "MONTH": "July",
+    "YEAR": 2015,
+    "DATE": "07/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 18,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 100,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 167,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 280,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 770,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "August",
+    "YEAR": 2015,
+    "DATE": "08/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 12,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 19,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 89,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 147,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 288,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 635,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 78,
+    "MONTH": "September",
+    "YEAR": 2015,
+    "DATE": "09/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 19,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 94,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 145,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 342,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 665,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 86,
+    "MONTH": "October",
+    "YEAR": 2015,
+    "DATE": "10/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 101,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 127,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 274,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 561,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 75,
+    "MONTH": "November",
+    "YEAR": 2015,
+    "DATE": "11/30/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 112,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 108,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 294,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 582,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 68,
+    "MONTH": "December",
+    "YEAR": 2015,
+    "DATE": "12/31/2015 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 102,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 106,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 217,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 526,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 69,
+    "MONTH": "January",
+    "YEAR": 2016,
+    "DATE": "01/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 26,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 62,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 112,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 153,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 413,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 42,
+    "MONTH": "February",
+    "YEAR": 2016,
+    "DATE": "02/29/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 78,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 118,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 180,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 468,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 60,
+    "MONTH": "March",
+    "YEAR": 2016,
+    "DATE": "03/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 7,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 63,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 133,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 190,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 519,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 69,
+    "MONTH": "April",
+    "YEAR": 2016,
+    "DATE": "04/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 87,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 151,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 221,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 602,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 77,
+    "MONTH": "May",
+    "YEAR": 2016,
+    "DATE": "05/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 19,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 79,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 142,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 203,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 711,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 82,
+    "MONTH": "June",
+    "YEAR": 2016,
+    "DATE": "06/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 6,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 90,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 166,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 313,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 735,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 89,
+    "MONTH": "July",
+    "YEAR": 2016,
+    "DATE": "07/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 101,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 154,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 319,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 806,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 94,
+    "MONTH": "August",
+    "YEAR": 2016,
+    "DATE": "08/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 7,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 16,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 96,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 143,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 218,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 651,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 70,
+    "MONTH": "September",
+    "YEAR": 2016,
+    "DATE": "09/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 98,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 124,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 216,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 619,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 50,
+    "MONTH": "October",
+    "YEAR": 2016,
+    "DATE": "10/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 12,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 92,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 143,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 199,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 557,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 83,
+    "MONTH": "November",
+    "YEAR": 2016,
+    "DATE": "11/30/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 0,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 110,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 82,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 178,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 531,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 72,
+    "MONTH": "December",
+    "YEAR": 2016,
+    "DATE": "12/31/2016 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 8,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 15,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 71,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 93,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 167,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 487,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 60,
+    "MONTH": "January",
+    "YEAR": 2017,
+    "DATE": "01/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 14,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 61,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 102,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 142,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 403,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 33,
+    "MONTH": "February",
+    "YEAR": 2017,
+    "DATE": "02/28/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 56,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 85,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 145,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 473,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 50,
+    "MONTH": "March",
+    "YEAR": 2017,
+    "DATE": "03/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 8,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 77,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 122,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 178,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 513,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 69,
+    "MONTH": "April",
+    "YEAR": 2017,
+    "DATE": "04/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 68,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 132,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 171,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 594,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 67,
+    "MONTH": "May",
+    "YEAR": 2017,
+    "DATE": "05/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 2,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 10,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 78,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 143,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 183,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 637,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 70,
+    "MONTH": "June",
+    "YEAR": 2017,
+    "DATE": "06/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 4,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 13,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 67,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 146,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 251,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 602,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "July",
+    "YEAR": 2017,
+    "DATE": "07/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 90,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 172,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 266,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 669,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 87,
+    "MONTH": "August",
+    "YEAR": 2017,
+    "DATE": "08/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 59,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 138,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 174,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 522,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 56,
+    "MONTH": "September",
+    "YEAR": 2017,
+    "DATE": "09/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 74,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 126,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 237,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 682,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 76,
+    "MONTH": "October",
+    "YEAR": 2017,
+    "DATE": "10/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 72,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 119,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 235,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 520,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 73,
+    "MONTH": "November",
+    "YEAR": 2017,
+    "DATE": "11/30/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 5,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 69,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 111,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 180,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 469,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 77,
+    "MONTH": "December",
+    "YEAR": 2017,
+    "DATE": "12/31/2017 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 1,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 9,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 89,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 118,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 149,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 388,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 73,
+    "MONTH": "January",
+    "YEAR": 2018,
+    "DATE": "01/31/2018 12:00:00 AM"
+},{
+    "TYPE": "Homicide",
+    "COUNT": 3,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Rape",
+    "COUNT": 11,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Robbery",
+    "COUNT": 68,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Assault",
+    "COUNT": 77,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Burglary",
+    "COUNT": 129,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Larceny",
+    "COUNT": 428,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+},{
+    "TYPE": "Motor Vehicle Theft",
+    "COUNT": 85,
+    "MONTH": "February",
+    "YEAR": 2018,
+    "DATE": "02/28/2018 12:00:00 AM"
+}
+]
