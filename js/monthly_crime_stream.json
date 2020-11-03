@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "width": 300, "height": 200,
+    "width": 350, "height": 250,
     "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/month_dataa.json"},
-    "mark": "area",
+    "mark": {"type": "area"},
     "selection": {
       "Classification": {
         "type": "multi", "fields": ["TYPE"], "bind": "legend"
@@ -22,7 +22,7 @@
         "scale": {"scheme": "category20"}
       },
       "opacity": {
-        "condition": {"selection": "Classification", "value": 1},
+        "condition": {"selection": "Classification", "value": 0.8},
         "value": 0.2
       }
     }
