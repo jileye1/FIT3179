@@ -1,6 +1,6 @@
 {
   "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
-  "hconcat": [
+  "vconcat": [
     {
       "layer": [
         {
@@ -84,7 +84,7 @@
       }
     },
     {
-      "vconcat": [
+      "hconcat": [
         {
           "mark": {"type": "circle", "opacity": 1},
           "encoding": {
@@ -170,64 +170,6 @@
       "data": {
         "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
       }
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
-      },
-      "mark": {"type": "circle", "opacity": 1},
-      "encoding": {
-        "color": {
-          "condition": {
-            "type": "nominal",
-            "field": "State",
-            "legend": null,
-            "selection": "selector001"
-          },
-          "value": "lightgray"
-        },
-        "size": {
-          "type": "quantitative",
-          "field": "PopDens",
-          "legend": {"title": "Population Density"},
-          "scale": {"range": [0, 1200]}
-        },
-        "tooltip": [
-          {"type": "nominal", "field": "State", "title": "State"},
-          {
-            "type": "quantitative",
-            "field": "Unemployment",
-            "title": "Unemployment rate"
-          },
-          {
-            "type": "quantitative",
-            "field": "Violent",
-            "title": "Crime Rate"
-          },
-          {
-            "type": "quantitative",
-            "field": "PopDens",
-            "title": "Population Density"
-          }
-        ],
-        "x": {
-          "type": "quantitative",
-          "axis": {"labelAngle": 0},
-          "field": "Violent",
-          "title": "Violent Crime Rate"
-        },
-        "y": {
-          "type": "quantitative", 
-          "field": "Unemployment",
-          "title": "Unemployment Rate",
-          "axis":{
-            "labelAngle": 0
-          }
-          }
-      },
-      "height": 200,
-
-      "width": 300
     }
   ],
   "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"
