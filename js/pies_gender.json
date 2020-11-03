@@ -94,6 +94,7 @@
     },
     {"spacing": 0,
     "hconcat": [{
+      "height": 200,
       "transform": [
         {
           "filter": {"field": "sex", "equal": "none"}
@@ -135,7 +136,11 @@
       }
     }, {
       "width": 20,
+      "height": 200,
       "view": {"stroke": null},
+      "transform": [
+        {"filter": {"field": "sex", "equal": "none"}}
+      ],
       "mark": {
         "type": "text",
         "align": "center"
@@ -147,8 +152,8 @@
     }, {
       "transform": [
         {
-            "filter": {"field": "sex", "equal": "none"}
-        },
+              "filter": {"field": "sex", "equal": "none"}
+          },
         {
           "filter": {"selection": "Details_for"}
         },
