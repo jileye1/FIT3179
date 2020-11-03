@@ -2,10 +2,30 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "description": "A population pyramid for the US in 2000.",
     "data": { "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/demographic.json"},
-    "transform": [
-      {"calculate": "datum.sex", "as": "gender"}
-    ],
-    "hconcat": [{
+    "vconcat": [
+      {
+      "width": 20,
+      "view": {"stroke": null},
+      "selection": {
+      "Details_for": {
+        "type": "single",
+        "fields": ["offense"],
+        "bind": {"input": "select", "options": ["All", "Homicide", "Rape", "Robbery", "Assault", "Property"]}, "init": {"offense": "All"}
+      }},
+      "transform": [
+        {"filter": {"selection": "Details_for"}}
+      ],
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "offense", "type": "nominal", "axis": null},
+        "text": {"field": "offense", "type": "nominal"}
+      }
+    },
+    {
+      "hconcat": [{
       "transform": [
         {
           "filter": {"field": "age", "equal": "none"}
@@ -13,7 +33,7 @@
         {
         "filter": {"field": "vic_off", "equal": "Offender"}
       },
-      {"filter": {"field": "offense", "equal": "All"}}],
+      {"filter": {"selection": "Details_for"}}],
       "title": "Offender",
       "mark": "arc",
     "encoding": {
@@ -47,7 +67,7 @@
         {
         "filter": {"field": "vic_off", "equal": "Victim"}
       },
-      {"filter": {"field": "offense", "equal": "All"}}],
+      {"filter": {"selection": "Details_for"}}],
       "title": "Victim",
       "mark": "arc",
     "encoding": {
@@ -70,9 +90,96 @@
     },
     "view": {"stroke": null}
       }
-    ],
-    "config": {
+    ]
+    },
+    {"spacing": 0,
+    "hconcat": [{
+      "transform": [
+        {
+          "filter": {"field": "sex", "equal": "none"}
+        },
+        {
+        "filter": {"field": "vic_off", "equal": "Offender"}
+      },
+      {"filter": {"selection": "Details_for"}}],
+      "title": "Offender",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "age", "axis": null
+        },
+        "x": {
+          "aggregate": "sum", "field": "count",
+          "title": "Number of offenders",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+          "field": "vic_off",
+          "scale": {
+          "domain": ["Offender", "Victim"],
+          "range": ["#FF9999", "#FFE5CC"]},
+          "legend": null
+        },
+        "tooltip": [{
+        "type": "quantitative",
+        "field": "count",
+        "title": "Number of victims"
+      },
+      {
+        "type": "nominal",
+        "field": "age",
+        "title": "Aged"
+      }
+      ]
+      }
+    }, {
+      "width": 20,
       "view": {"stroke": null},
-      "axis": {"grid": false}
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "age", "type": "nominal", "axis": null},
+        "text": {"field": "age", "type": "nominal"}
+      }
+    }, {
+      "transform": [
+        {
+          "filter": {"selection": "Details_for"}
+        },
+        {
+        "filter": {"field": "vic_off", "equal": "Victim"}
+      }],
+      "title": "Victim",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "age", "title": null,
+          "axis": null
+        },
+        "x": {
+          "aggregate": "sum", "field": "count",
+          "title": "Number of victims",
+          "axis": {"format": "s"}
+        },
+        "color": {
+          "field": "vic_off",
+          "legend": null
+        },
+        "tooltip": [{
+        "type": "quantitative",
+        "field": "count",
+        "title": "Number of victims"
+      },
+      {
+        "type": "nominal",
+        "field": "age",
+        "title": "Aged"
+      }
+      ]
+      }
+    }]}
+    ]
     }
-  }
