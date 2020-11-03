@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "width": 300, "height": 200,
-    "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/month_data.json"},
+    "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/month_dataa.json"},
     "mark": "area",
     "selection": {
       "Classification": {
@@ -11,7 +11,7 @@
     "encoding": {
       "x": {
         "timeUnit": "month", "field": "DATE",
-        "axis": {"domain": false, "format": "%Y", "tickSize": 0, "title": "Month"}
+        "axis": {"domain": false, "format": "%b", "tickSize": 0, "title": "Month"}
       },
       "y": {
         "aggregate": "sum", "field": "COUNT",
