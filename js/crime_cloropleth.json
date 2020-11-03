@@ -6,7 +6,7 @@
           "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
           "height": 310,
           "projection": {"type": "albersUsa"},
-          "width": 500
+          "width": 450
         },
         {
           "mark": "geoshape",
@@ -47,7 +47,7 @@
               }
             }
           ],
-          "width": 500
+          "width": 450
         },
         {
           "mark": "circle",
@@ -138,7 +138,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 100
+          "width": 200
         },
         {
         "mark": {"type": "circle", "opacity": 1},
@@ -186,7 +186,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 100
+          "width": 199
       }
       ],
       "data": {
