@@ -12,8 +12,8 @@
         "aggregate": "sum", "field": "COUNT"
       },
       "color": {
-        "field": "series",
-        "scale": {"scheme": "category20b"}
+        "field": "TYPE",
+        "scale": {"scheme": "category20"}
       }
     }
   }
