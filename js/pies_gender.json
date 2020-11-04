@@ -95,7 +95,7 @@
     },
     {"spacing": 0,
     "hconcat": [{
-      "height": 200,
+      "height": 230,
       "transform": [
         {
           "filter": {"field": "sex", "equal": "none"}
@@ -137,7 +137,7 @@
       }
     }, {
       "width": 20,
-      "height": 200,
+      "height": 230,
       "view": {"stroke": null},
       "transform": [
         {"filter": {"field": "sex", "equal": "none"}}
@@ -151,6 +151,7 @@
         "text": {"field": "age", "type": "nominal"}
       }
     }, {
+      "height": 230,
       "transform": [
         {
               "filter": {"field": "sex", "equal": "none"}
