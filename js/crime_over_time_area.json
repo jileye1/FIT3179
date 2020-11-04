@@ -1,32 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "vconcat":[{  
-    "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_time.json"},
-  "mark": {"type": "line", "point":true},
-  "title": "Crime Rates over Time",
-  "transform": [
-    {"filter": {"selection": "Classification"}}
-  ],
-  "encoding": {
-    "x": {
-      "timeUnit": "year", "field": "DATE",
-      "axis": {"domain": false, "format": "%Y", "tickSize": 0, "title": "Year"}
-    },
-    "y": {
-      "aggregate": "sum", "field": "COUNT", "title": "Number of cases"
-    },
-    "color": {
-      "field":"TYPE",
-      "scale": {
-          "domain": ["Homicide", "Burglary", "Assault", "Motor Vehicle Theft", "Robbery", "Rape"],
-          "range": ["#EC0101", "#FFB99A", "#FF6464", "#FFA36C", "#FFCAC2", "#851D41"]
-      }
-    },
-    "opacity": {
-      "condition": {"selection": "Classification", "value": 0.8},
-      "value": 0.2
-    }
-  }, "height": 250, "width": 300},
+  "hconcat":[
   {
   "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/month_dataa.json"},
   "mark": {"type": "area"},
@@ -43,6 +17,33 @@
     },
     "y": {
       "aggregate": "sum", "field": "COUNT", "title": "Number of Cases"
+    },
+    "color": {
+      "field":"TYPE",
+      "scale": {
+          "domain": ["Homicide", "Burglary", "Assault", "Motor Vehicle Theft", "Robbery", "Rape"],
+          "range": ["#EC0101", "#FFB99A", "#FF6464", "#FFA36C", "#FFCAC2", "#851D41"]
+      }
+    },
+    "opacity": {
+      "condition": {"selection": "Classification", "value": 0.8},
+      "value": 0.2
+    }
+  }, "height": 250, "width": 300},
+  {  
+    "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_time.json"},
+  "mark": {"type": "line", "point":true},
+  "title": "Crime Rates over Time",
+  "transform": [
+    {"filter": {"selection": "Classification"}}
+  ],
+  "encoding": {
+    "x": {
+      "timeUnit": "year", "field": "DATE",
+      "axis": {"domain": false, "format": "%Y", "tickSize": 0, "title": "Year"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "COUNT", "title": "Number of cases"
     },
     "color": {
       "field":"TYPE",
