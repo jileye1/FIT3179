@@ -126,7 +126,8 @@
         {
           "mark": {
             "type": "text", 
-            "dy": -30
+            "dy": -30,
+            "fontSize": 9
             },
             "transform": [
             {
@@ -280,7 +281,7 @@
           },
             "x": {
               "type": "quantitative",
-              "axis": null,
+              
               "field": "Violent"
             },
             "y": {
