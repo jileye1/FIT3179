@@ -29,7 +29,19 @@
     "opacity": {
       "condition": {"selection": "Classification", "value": 0.8},
       "value": 0.2
-    }
+    },
+    "tooltip": [
+      {
+        "type": "nominal",
+        "field": "TYPE",
+        "title": "Crime"
+      },
+      {
+        "type": "quantitative",
+        "field": "COUNT",
+        "title": "Cases"
+      }
+    ]
   }, "height": 250, "width": 350},
   {  
     "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_time.json"},
@@ -56,6 +68,13 @@
     "opacity": {
       "condition": {"selection": "Classification", "value": 0.8},
       "value": 0.2
-    }
+    },
+    "tooltip": [
+      {
+        "type": "nominal",
+        "field": "TYPE",
+        "title": "Crime"
+      }
+    ]
   }, "height": 250, "width": 350}]
 }
