@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "spacing": 40,
   "hconcat":[
   {
   "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/month_dataa.json"},
@@ -29,7 +30,7 @@
       "condition": {"selection": "Classification", "value": 0.8},
       "value": 0.2
     }
-  }, "height": 250, "width": 400},
+  }, "height": 250, "width": 350},
   {  
     "data": {"url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_time.json"},
   "mark": {"type": "line", "point":true},
@@ -56,5 +57,5 @@
       "condition": {"selection": "Classification", "value": 0.8},
       "value": 0.2
     }
-  }, "height": 250, "width": 400}]
+  }, "height": 250, "width": 350}]
 }
