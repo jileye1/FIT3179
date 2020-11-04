@@ -260,7 +260,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 250
+          "width": 270
         },
         {
           "mark": {
@@ -344,7 +344,7 @@
               "encodings": ["x", "y"]
             }
           },
-          "width": 249
+          "width": 269
         },
         {
           "mark": {
