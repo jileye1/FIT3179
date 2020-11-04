@@ -200,6 +200,7 @@
     },
     {
       "vconcat": [
+        {"layer": [
         {
           "mark": {"type": "circle"},
         "encoding": {
@@ -261,6 +262,36 @@
           "width": 250
         },
         {
+          "mark": {
+            "type": "text",
+            "color": "gray", 
+            "dy": -10,
+            "size": 6
+          },
+          "transform": [
+            {"filter": {"or": [{"field": "Violent", "lt": 150}, {"field": "Violent", "gt": 800}]}}
+          ],
+        "encoding": {
+          "opacity": {"condition": {
+          "type": "nominal",
+                "test": {"selection": "selector001"}
+              },
+              "value": 0.2
+          },
+            "x": {
+              "type": "quantitative",
+              "axis": null,
+              "field": "Violent"
+            },
+            "y": {
+              "type": "quantitative", 
+              "field": "Unemployment"
+            },
+            "text": {"type": "nominal", "field": "State"}
+          }  
+      }
+      ]},
+        {"layer": [{
         "mark": {"type": "circle"},
         "encoding": {
           "opacity": {"condition": {
@@ -313,7 +344,37 @@
             }
           },
           "width": 249
+        },
+        {
+          "mark": {
+            "type": "text",
+            "color": "gray", 
+            "dy": -10,
+            "size": 6
+          },
+          "transform": [
+            {"filter": {"or": [{"field": "Violent", "lt": 150}, {"field": "Violent", "gt": 800}]}}
+          ],
+        "encoding": {
+          "opacity": {"condition": {
+          "type": "nominal",
+                "test": {"selection": "selector001"}
+              },
+              "value": 0.2
+          },
+            "x": {
+              "type": "quantitative",
+              "axis": null,
+              "field": "Violent"
+            },
+            "y": {
+              "type": "quantitative", 
+              "field": "MedianIncome"
+            },
+            "text": {"type": "nominal", "field": "State"}
+          }  
       }
+        ]}
       ],
       "data": {
         "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
