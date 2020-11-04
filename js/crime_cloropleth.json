@@ -40,11 +40,24 @@
               "lookup": "properties.name",
               "from": {
                 "data": {
-                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
                 },
                 "key": "State",
                 "fields": ["Violent"]
               }
+            },
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
+                },
+                "key": "State",
+                "fields": ["Year"]
+              }
+            },
+            {
+              "calculate": "year(datum.Year)", "as": " year"
             }
           ],
           "width": 450
@@ -64,7 +77,39 @@
           }
         },
         {
-          "mark": {"type": "text", "dy": -10},
+          "mark": {
+            "type": "text", 
+            "dy": -10, 
+            "fontSize": 6
+            },
+            "transform": [
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
+                },
+                "key": "State",
+                "fields": ["Year"]
+              }
+            },
+            {
+              "calculate": "year(datum.Year)", "as": " year"
+            },
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
+                },
+                "key": "State",
+                "fields": ["Desc"]
+              }
+            },
+            {
+              "filter": {"field": "Desc", "equal": "none"}
+            }
+          ],
           "encoding": {
             "color": {"value": "black"},
             "latitude": {
@@ -76,6 +121,75 @@
               "type": "quantitative"
             },
             "text": {"type": "nominal", "field": "properties.postal"}
+          }
+        },
+        {
+          "mark": {
+            "type": "text", 
+            "dy": -30
+            },
+            "transform": [
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
+                },
+                "key": "State",
+                "fields": ["Desc"]
+              }
+            },
+            {
+              "filter": {"not": {"field": "Desc", "equal": "none"}}
+            },
+            {"filter": {"not": {"field": "properties.postal", "equal": "DC"}}}
+          ],
+          "encoding": {
+            "color": {"value": "black"},
+            "latitude": {
+              "field": "properties.latitude",
+              "type": "quantitative"
+            },
+            "longitude": {
+              "field": "properties.longitude",
+              "type": "quantitative"
+            },
+            "text": {"type": "nominal", "field": "Desc"}
+          }
+        },
+        {
+          "mark": {
+            "type": "text", 
+            "dy": -20,
+            "fontStyle": "bold"
+            },
+            "transform": [
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
+                },
+                "key": "State",
+                "fields": ["Desc"]
+              }
+            },
+            {
+              "filter": {"not": {"field": "Desc", "equal": "none"}}
+            },
+            {"filter": {"not": {"field": "properties.postal", "equal": "DC"}}}
+          ],
+          "encoding": {
+            "color": {"value": "black"},
+            "latitude": {
+              "field": "properties.latitude",
+              "type": "quantitative"
+            },
+            "longitude": {
+              "field": "properties.longitude",
+              "type": "quantitative"
+            },
+            "text": {"type": "nominal", "field": "properties.name"}
           }
         }
       ],
@@ -202,7 +316,7 @@
       }
       ],
       "data": {
-        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data.csv"
+        "url": "https://raw.githubusercontent.com/jileye1/FIT3179/main/data/crime_state_data_18.csv"
       }
     }
   ],
