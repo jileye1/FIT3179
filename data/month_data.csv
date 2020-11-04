@@ -1,73 +1,73 @@
-﻿TYPE,COUNT,MONTH,YEAR,DATE,,,
-Homicide,8,January,2017,"Sunday, 1 January 2017",,,
-Rape,15,January,2017,"Monday, 2 January 2017",,,
-Robbery,71,January,2017,"Tuesday, 3 January 2017",,,
-Assault,93,January,2017,"Wednesday, 4 January 2017",,,
-Burglary,167,January,2017,"Thursday, 5 January 2017",,,
-Motor Vehicle Theft,60,January,2017,"Friday, 6 January 2017",,,
-Homicide,4,February,2017,"Wednesday, 1 February 2017",,,
-Rape,14,February,2017,"Thursday, 2 February 2017",,,
-Robbery,61,February,2017,"Friday, 3 February 2017",,,
-Assault,102,February,2017,"Saturday, 4 February 2017",,,
-Burglary,142,February,2017,"Sunday, 5 February 2017",,,
-Motor Vehicle Theft,33,February,2017,"Monday, 6 February 2017",,,
-Homicide,4,March,2017,"Wednesday, 1 March 2017",,,
-Rape,9,March,2017,"Thursday, 2 March 2017",,,
-Robbery,56,March,2017,"Friday, 3 March 2017",,,
-Assault,85,March,2017,"Saturday, 4 March 2017",,,
-Burglary,145,March,2017,"Sunday, 5 March 2017",,,
-Motor Vehicle Theft,50,March,2017,"Monday, 6 March 2017",,,
-Homicide,3,April,2017,"Saturday, 1 April 2017",,,
-Rape,8,April,2017,"Sunday, 2 April 2017",,,
-Robbery,77,April,2017,"Monday, 3 April 2017",,,
-Assault,122,April,2017,"Tuesday, 4 April 2017",,,
-Burglary,178,April,2017,"Wednesday, 5 April 2017",,,
-Motor Vehicle Theft,69,April,2017,"Thursday, 6 April 2017",,,
-Homicide,4,May,2017,"Monday, 1 May 2017",,,
-Rape,10,May,2017,"Tuesday, 2 May 2017",,,
-Robbery,68,May,2017,"Wednesday, 3 May 2017",,,
-Assault,132,May,2017,"Thursday, 4 May 2017",,,
-Burglary,171,May,2017,"Friday, 5 May 2017",,,
-Motor Vehicle Theft,67,May,2017,"Saturday, 6 May 2017",,,
-Homicide,2,June,2017,"Thursday, 1 June 2017",,,
-Rape,10,June,2017,"Friday, 2 June 2017",,,
-Robbery,78,June,2017,"Saturday, 3 June 2017",,,
-Assault,143,June,2017,"Sunday, 4 June 2017",,,
-Burglary,183,June,2017,"Monday, 5 June 2017",,,
-Motor Vehicle Theft,70,June,2017,"Tuesday, 6 June 2017",,,
-Homicide,4,July,2017,"Saturday, 1 July 2017",,,
-Rape,13,July,2017,"Sunday, 2 July 2017",,,
-Robbery,67,July,2017,"Monday, 3 July 2017",,,
-Assault,146,July,2017,"Tuesday, 4 July 2017",,,
-Burglary,251,July,2017,"Wednesday, 5 July 2017",,,
-Motor Vehicle Theft,85,July,2017,"Thursday, 6 July 2017",,,
-Homicide,3,August,2017,"Tuesday, 1 August 2017",,,
-Rape,11,August,2017,"Wednesday, 2 August 2017",,,
-Robbery,90,August,2017,"Thursday, 3 August 2017",,,
-Assault,172,August,2017,"Friday, 4 August 2017",,,
-Burglary,266,August,2017,"Saturday, 5 August 2017",,,
-Motor Vehicle Theft,87,August,2017,"Sunday, 6 August 2017",,,
-Homicide,1,September,2017,"Friday, 1 September 2017",,,
-Rape,9,September,2017,"Saturday, 2 September 2017",,,
-Robbery,59,September,2017,"Sunday, 3 September 2017",,,
-Assault,138,September,2017,"Monday, 4 September 2017",,,
-Burglary,174,September,2017,"Tuesday, 5 September 2017",,,
-Motor Vehicle Theft,56,September,2017,"Wednesday, 6 September 2017",,,
-Homicide,3,October,2017,"Sunday, 1 October 2017",,,
-Rape,9,October,2017,"Monday, 2 October 2017",,,
-Robbery,74,October,2017,"Tuesday, 3 October 2017",,,
-Assault,126,October,2017,"Wednesday, 4 October 2017",,,
-Burglary,237,October,2017,"Thursday, 5 October 2017",,,
-Motor Vehicle Theft,76,October,2017,"Friday, 6 October 2017",,,
-Homicide,3,November,2017,"Wednesday, 1 November 2017",,,
-Rape,9,November,2017,"Thursday, 2 November 2017",,,
-Robbery,72,November,2017,"Friday, 3 November 2017",,,
-Assault,119,November,2017,"Saturday, 4 November 2017",,,
-Burglary,235,November,2017,"Sunday, 5 November 2017",,,
-Motor Vehicle Theft,73,November,2017,"Monday, 6 November 2017",,,
-Homicide,3,December,2017,"Friday, 1 December 2017",,,
-Rape,5,December,2017,"Saturday, 2 December 2017",,,
-Robbery,69,December,2017,"Sunday, 3 December 2017",,,
-Assault,111,December,2017,"Monday, 4 December 2017",,,
-Burglary,180,December,2017,"Tuesday, 5 December 2017",,,
-Motor Vehicle Theft,77,December,2017,"Wednesday, 6 December 2017",,,
+﻿TYPE,COUNT,MONTH,YEAR,DATE,Detail
+Homicide,8,January,2017,"Sunday, 1 January 2017",none
+Rape,15,January,2017,"Monday, 2 January 2017",none
+Robbery,71,January,2017,"Tuesday, 3 January 2017",none
+Assault,93,January,2017,"Wednesday, 4 January 2017",none
+Burglary,167,January,2017,"Thursday, 5 January 2017",none
+Motor Vehicle Theft,60,January,2017,"Friday, 6 January 2017",none
+Homicide,4,February,2017,"Wednesday, 1 February 2017",none
+Rape,14,February,2017,"Thursday, 2 February 2017",none
+Robbery,61,February,2017,"Friday, 3 February 2017",none
+Assault,102,February,2017,"Saturday, 4 February 2017",none
+Burglary,142,February,2017,"Sunday, 5 February 2017",none
+Motor Vehicle Theft,33,February,2017,"Monday, 6 February 2017",none
+Homicide,4,March,2017,"Wednesday, 1 March 2017",none
+Rape,9,March,2017,"Thursday, 2 March 2017",none
+Robbery,56,March,2017,"Friday, 3 March 2017",none
+Assault,85,March,2017,"Saturday, 4 March 2017","349 cases, March"
+Burglary,145,March,2017,"Sunday, 5 March 2017",none
+Motor Vehicle Theft,50,March,2017,"Monday, 6 March 2017",none
+Homicide,3,April,2017,"Saturday, 1 April 2017",none
+Rape,8,April,2017,"Sunday, 2 April 2017",none
+Robbery,77,April,2017,"Monday, 3 April 2017",none
+Assault,122,April,2017,"Tuesday, 4 April 2017",none
+Burglary,178,April,2017,"Wednesday, 5 April 2017",none
+Motor Vehicle Theft,69,April,2017,"Thursday, 6 April 2017",none
+Homicide,4,May,2017,"Monday, 1 May 2017",none
+Rape,10,May,2017,"Tuesday, 2 May 2017",none
+Robbery,68,May,2017,"Wednesday, 3 May 2017",none
+Assault,132,May,2017,"Thursday, 4 May 2017",none
+Burglary,171,May,2017,"Friday, 5 May 2017",none
+Motor Vehicle Theft,67,May,2017,"Saturday, 6 May 2017",none
+Homicide,2,June,2017,"Thursday, 1 June 2017",none
+Rape,10,June,2017,"Friday, 2 June 2017",none
+Robbery,78,June,2017,"Saturday, 3 June 2017",none
+Assault,143,June,2017,"Sunday, 4 June 2017",none
+Burglary,183,June,2017,"Monday, 5 June 2017",none
+Motor Vehicle Theft,70,June,2017,"Tuesday, 6 June 2017",none
+Homicide,4,July,2017,"Saturday, 1 July 2017",none
+Rape,13,July,2017,"Sunday, 2 July 2017",none
+Robbery,67,July,2017,"Monday, 3 July 2017",none
+Assault,146,July,2017,"Tuesday, 4 July 2017",none
+Burglary,251,July,2017,"Wednesday, 5 July 2017",none
+Motor Vehicle Theft,85,July,2017,"Thursday, 6 July 2017",none
+Homicide,3,August,2017,"Tuesday, 1 August 2017",none
+Rape,11,August,2017,"Wednesday, 2 August 2017",none
+Robbery,90,August,2017,"Thursday, 3 August 2017",none
+Assault,172,August,2017,"Friday, 4 August 2017","542 cases, August"
+Burglary,266,August,2017,"Saturday, 5 August 2017",none
+Motor Vehicle Theft,87,August,2017,"Sunday, 6 August 2017",none
+Homicide,1,September,2017,"Friday, 1 September 2017",none
+Rape,9,September,2017,"Saturday, 2 September 2017",none
+Robbery,59,September,2017,"Sunday, 3 September 2017",none
+Assault,138,September,2017,"Monday, 4 September 2017",none
+Burglary,174,September,2017,"Tuesday, 5 September 2017",none
+Motor Vehicle Theft,56,September,2017,"Wednesday, 6 September 2017",none
+Homicide,3,October,2017,"Sunday, 1 October 2017",none
+Rape,9,October,2017,"Monday, 2 October 2017",none
+Robbery,74,October,2017,"Tuesday, 3 October 2017",none
+Assault,126,October,2017,"Wednesday, 4 October 2017",none
+Burglary,237,October,2017,"Thursday, 5 October 2017",none
+Motor Vehicle Theft,76,October,2017,"Friday, 6 October 2017",none
+Homicide,3,November,2017,"Wednesday, 1 November 2017",none
+Rape,9,November,2017,"Thursday, 2 November 2017",none
+Robbery,72,November,2017,"Friday, 3 November 2017",none
+Assault,119,November,2017,"Saturday, 4 November 2017",none
+Burglary,235,November,2017,"Sunday, 5 November 2017",none
+Motor Vehicle Theft,73,November,2017,"Monday, 6 November 2017",none
+Homicide,3,December,2017,"Friday, 1 December 2017",none
+Rape,5,December,2017,"Saturday, 2 December 2017",none
+Robbery,69,December,2017,"Sunday, 3 December 2017",none
+Assault,111,December,2017,"Monday, 4 December 2017",none
+Burglary,180,December,2017,"Tuesday, 5 December 2017",none
+Motor Vehicle Theft,77,December,2017,"Wednesday, 6 December 2017",none
