@@ -365,7 +365,6 @@
           },
             "x": {
               "type": "quantitative",
-              "axis": null,
               "field": "Violent"
             },
             "y": {
